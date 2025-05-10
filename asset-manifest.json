@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ValorousCreationsPWA/static/css/main.f855e6bc.css",
+    "main.js": "/ValorousCreationsPWA/static/js/main.b3a6c6b5.js",
+    "static/js/488.fa445443.chunk.js": "/ValorousCreationsPWA/static/js/488.fa445443.chunk.js",
+    "service-worker.js": "/ValorousCreationsPWA/service-worker.js",
+    "static/media/logo.svg": "/ValorousCreationsPWA/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/ValorousCreationsPWA/index.html",
+    "main.f855e6bc.css.map": "/ValorousCreationsPWA/static/css/main.f855e6bc.css.map",
+    "main.b3a6c6b5.js.map": "/ValorousCreationsPWA/static/js/main.b3a6c6b5.js.map",
+    "488.fa445443.chunk.js.map": "/ValorousCreationsPWA/static/js/488.fa445443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b3a6c6b5.js"
+  ]
+}
